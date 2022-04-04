@@ -1,0 +1,20 @@
+#tp{
+    text-align: center;
+    border-radius: 20px;
+    height: 0.5cm;
+    background-color: rgb(146, 161, 175);
+}
+.om{
+    text-align: center;
+    color: lime;
+    background-color: black;
+    
+}
+
+
+#x{
+size: 100%;
+outline: none;
+border: none;
+background: none;
+}
